@@ -1,0 +1,51 @@
+The Return.
+The players will finish off in the mine, if they search the barracks (On the second floor, the path they didn't take before) 
+		Barracks:
+			DC 12- Personal Effects, 4d4 silver
+			DC 16- Suspicious Note
+				A Grey bearded dward gave Fili, another dwarven miner, 50 Gold to plant a heart of stone in the bottom of the mine.
+		Once they leave the mine, they will probably stay the night in the inn, or they could head of straight away.
+			If they stay in the inn it will be empty. When they start making noise the same inkeeper they intimidated not long before will come down and will act as though he wants them to leave but is to afraid to say anything rude.
+			
+			If they sleep in the inn, when they wake up they will find a few miners who are glad they can get back to work, and a Grey bearded Dward called Oin, Oin will say he overhead that they had cleared out the mine last night, and offer to buy the core of the elemental from them for 50 Gold. If they accept he will pay and leave, and they will get yelled at both Toth'Tway back at the university, If they don't take the offer Oin will be willing to go up to 100 Gold, and if they still don't accept the deal will say "Fair enough, but if you change your mind i will be here"
+				Opposed Insight/Deception to tell that he is shifty
+					+5 Deception for Oin
+			
+			After breakfast the innkeeper will imply that they should move on, and on their way back the the university their will be a "Random" encounter with a small pirate ship called the Tormunds Guilt. It will be a keelboat same as theirs with a ballista on the front.
+			
+			If they had not taken Oins deal for whatever reason, the boat will be tasked to retrieving the stone, if not then to hunt them down so that they don't remember Oin's face. 
+				Loot:
+					Captains Quaters
+						Free
+							A local navigation chart with coded notes
+								DC 15:
+									decode partially
+								DC 20:
+									Decode fully
+						DC 12:
+							A coded Captains Diary
+							False Bottom in the captains chest 100 Gold
+						DC 16:
+							A half burnt scrap of note
+								Burnt Note---- ts hope this works better then our last attempt, Gegor swears that this will work but we can't cope with another disaster like last time, years of work down the drain, and that clockwork maniac getting word of things. I want you to make sure that this is the right way, do whatever you --- Burnt Note
+					Underdecks
+						Free
+							A squirrel Suit
+							3 days supplies
+						DC 12:
+							Sailors Personal effects, 5d8 silver
+						DC 20:
+							A escape hatch built into the hull, with a man clining to the outside
+							
+				The players can attempt to loot the ballista from the ship
+						Free
+							Their attempts to remove the ballista damage it beyond use
+						DC 10:
+							Remove the ballista, but its damaged and will need repairs before you can install it on yours
+						DC 18:
+							Remove the Ballista without significant damage, can attempt to reinstall it immedietly (Same DC's as before)
+			
+			Once the deal with the ship they will head back to the university without any further issue. If they arrive at night Friedrich will tell them they will be debriefed in the morning, otherwise they will be taken to a Warforged captain called Captain V1.1.1 or Ones for short.
+			
+			He will basically say now that they are on the payroll they won't be seeing toth'tway all that often, and that he would be taking over from here, depending on how much the players learn he will give them their next mission
+			

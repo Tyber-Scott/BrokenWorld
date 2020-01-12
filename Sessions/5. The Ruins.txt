@@ -1,0 +1,28 @@
+4.b.Recompense
+The players will be set on this mission if they take either of the options. Now that Toth'Tway knows, if not exactly the cultists plan, then at least what they are doing, he can hone in on the aetheric signs of awakened elements being born, and has detected another being born on the Meccandra, a island covered by the ruins of a elven city from before the collapse.
+
+The island will be several days journey, and assuming no random encounters nothing will happen on the way. Once players arrive at the island they will be detected by cultists unless they choose to approach stealthily, and be shot of by ballistas that were set up in the remains of some of the elven towers. protecting a clearly tempory dock with a single ship set up attached to the island.
+
+Taking out the 2 ballistas and the 3 cultists that were protecting the ship, they will proceed deeper into the city
+	One of the cultists will have a map on him showing the direction to the elementals spawning chamber.
+	
+	Cultists [Cultist]
+	Sergent [Pirate Captain]
+	
+	Making their way through the city, they will be jumped a few times by cultists and some dogs. If it is all to easy they will also be attacked by a bandit captain.
+	
+	Once they make it to the one of the larger towers of the city, a dc 15 perception check will notice that they are getting hotter.
+	
+	The door will be barred from the outside, and when they break the door open, they will see a giant solar array focusing into the centre of the chamber, with apparently a solar elemental absorbing the power.
+	
+	Elemental [Azer]
+	Adds [Magma Mephit]
+	
+	After beating the elemental, and recovering the heart they will start the exit their way back out of the city. Assuming they are healthy enough to take it, a Fire themed magician, and 2 cultits will jump them.
+	
+	Mage [Cult Fanatic]
+	Followers [Acolyte]
+	
+	If they capture the magician he will be willing to die for the cult, but they will find the message talking about the shard of liams gods weapon powering a shrine.
+	
+	If they decide to stealth through the city instead of going for combat they will overhear the wizard talking into a ccommunication device with the contents of the notw, instead of finding a note. And it will happen before the elemental fight.
