@@ -154,7 +154,15 @@ Apocalypse, Lord of the Horsemen, Head of the Charred Council,
 
 [God of Death (Positive)]
 
-[God of Death (Negative)]
+Death, The Grim Reaper
+	Very little is known about this god, those that have met him say that he is actually a really fun person to be around, but he never stays around long enough for anybody to grasp anything but the most surface layers of his persoanlity or power.
+	
+	His life now is much the same as it was before the breaking, he travels the world between sites of imminent death, giving funeral rights, advice and support in the midst of incedible devestation. Despite his good intentions his arrival is seen "correctly" as a sign of imminent doom, and few welcome it.
+	
+	He is often prayed to by those who face the risk of death, and is said that those who die without believing in any god belong to him in the afterlife.
+	
+	He has priests spread across the realm, who adminsister death rights to all, as will as maintain cemetaries, but even these priests have very little interaction with their god.
+	
 
 [God of Vengence]
 
