@@ -16,11 +16,9 @@ their primary complex's having a population in the 10's, or even 100's of thousa
 			
 	Loth'Gorn is the smallest of the big three. 
 		It was initially founded by the shipwright Jamison, who's entire drydock had survived the breaking intact on a 
-		single island. When Mag'ladroth's discovery reach the island ,where he and his appretinces where scrapping by, on the back of the gods. (Certain gods and 
-		powerful mortals could fly, and in the early days this was the only reliable way to comunicate between islands) he saw the opportunity for what is was 
-		and grasped it in both hands. The god who had delivered the message was Merc'cada, The Trader, and Jamison made a deal with him, in exchange for a equal
-		part in the buisiness as well as the worship of Jamison and those under him, Merc'cada would purchase all the cores he could carry and return them to
-		the dock as quickly as possible. Once this was done jamison realised that while he had the knowledge and skill to construct ships that could take the 
+		single island. When Mag'ladroth's discovery reach the island ,where he and his appretinces where scrapping by, on the back of the gods. (Certain gods and powerful mortals could fly, and in the early days this was the only reliable way to comunicate between islands) he saw the opportunity for what is was and grasped it in both hands. The god who had delivered the message was Merc'cada, The Trader, and Jamison made a deal with him, in exchange for a equalpart in the buisiness as well as the worship of Jamison and those under him, Merc'cada would purchase all the cores he could carry and return them tothe dock as quickly as possible. 
+		
+		Once this was done jamison realised that while he had the knowledge and skill to construct ships that could take the 
 		strain of being supported in the middle instead of from underneath, he didn't have the magical talent to transform the floating cores he had bought
 		into a functional means of propulsion. Merc'cada came to the rescue once again and sought those with magical talent who could transform the cores into
 		propulsion. He ended up contacting Hephestus, The Tinker and his followers. While they were almost entirly wiped out, and their extensive 
@@ -31,8 +29,7 @@ their primary complex's having a population in the 10's, or even 100's of thousa
 	
 		Once they had a prototype Jamison started increasing production, hiring and training apprentices and engineers. Unfortuantly it was only a matter of time
 		before others either copyied what Jamison had done, and the three partners realized they needed something extra in order to stay ahead of the competion.
-		They started a R&D department, which ,coupled with the fact that skilled workers who had survived the breaking flocked to Loth'Gorn (The Name of the island
-		the drydock was on) seeking work, was the grounds of the university known today.
+		They started a R&D department, which ,coupled with the fact that skilled workers who had survived the breaking flocked to Loth'Gorn (The Name of the islandthe drydock was on) seeking work, was the grounds of the university known today.
 	
 		Today the Goverment of the University is roughly the same as it was back then. Jamison's Line, whos worship of Merc'cada had granted them long life, 
 		maintain the ship-yards of the University, producing more and better ships then their competition. (Realisticly for general use all the major ship-yards
@@ -83,4 +80,21 @@ Toth'Tway
 	Toth'Tway himself takes the form of a old man, with one mechanical arm that glows and whirs with whatever magical and mechanical componets provide it
 	locomotion.
 	
+The Martial Academey of Marineford
+	This university is a strange case as unlike most of the others it doesn't so much rely on its own forces, as the connections it has with many of the major kingdoms and universitys throughout the realm of air. 
 	
+	Garp and Sengoku were high ranking priests of a minor war god called Kong. Since the immortality gifted to them by Kong disapeared when he died in the breaking, the two of them sort new ways of living forever. Since Kong died in the final climactic years of the Breaking, they could not offer their services to any other gods, who were to busy destroying the world, so they decided to seek imortality by sharing everything they new with a new generation of acolytes.
+	
+	Before they could really establish themselves, the earth shattered and their encapment (Which at this point was hardly more then some tents with a few walls) was scattered throughout the newly created realm of Air. Garp and Sengoku were split, and each assuming the other was dead sought to persue their plan independantly, taking up positions with warlords, minor gods and kings to train their guards. Neither survived to see the world settle, but they had trained successors and written books.
+	
+	As Travel became easier and news spread quicker, the successors of the two got wind of one another, and sought each other out. (Traditionally the successor took the name of Garp and sengoku as a way of ensuring their names lived forever, as they had wanted). The Martial prowess of those they had trained was such that they had made a name for themselves, and The current Garp and Sengoku decided to fulfill their masters wishs and form a school that trained Soldiers in the art of war.
+	
+	It was slow going, but over the generations the preserved knowledge of the origonal masters proved true, and the reputation of the Academy grew, until it was common practice for lords, gods and warlords to send promising cadets or their sons to Marineford to learn, before they took their place leading the fleets and armies of the world.
+	
+	However since warfare has changed so much since the days of the Original Masters, the Academy is not shy about seeking out knowledge and tactics for the ever changing enviroment they find themselves in, and it is not unusual for retired soldiers to return to the Academy to train the next generation. (It is not said out loud, but even some pirates and warlords retire to teach at the academy, as the academy does not care where you got you knowledge from, as long as you can share it with others, and its connections allow for protection for all but the most infamous of people).
+	
+	This means that while at any one time their are possibly only a few hundred students, and practically no defenses, Those who would attack it know that doing so would bring the wrath of many of its alumni down on them, as well as those rich, prestigous parents who send their children their.
+	
+	It also means that the academy has a lot more politcal influence then its size would suggest, although in fairness it must be applied subtly and diplomatically so as to maintain its reputation.
+	
+	Having been educated in Marineford is such a mark of excellence that even those who fail out can secure high paying rolls in the many mercenary bands or armies in the realm, and those who pass (and are not already connected to one of the many political entities who send their scions their) and quickly snapped up by one of the major kingdoms or universitys.
