@@ -1,8 +1,6 @@
 6. The Elemental
 #TODO
 	WRITE PATS PATRON
-	COME UP WITH CULTS SHRINE
-	REWRITE NOTE
 	
  Loose Overview
 	-Interrogate the captured Culties
@@ -11,7 +9,7 @@
 		- Find the note on Arthas
 			-I Hear and Obey
 				Arthas,
-					What is Taking so long, you are running behind the schedule. You are lucky we found the calalyst or we would still be recovering from the *(^^ up with the lightning elemental for years.
+					What is Taking so long, you are running behind the schedule. You are lucky we found the calalyst or we would still be recovering from the incident up with the lightning elemental for years.
 					
 					Good news though, With they powers in this calalyst we can almost go straight to the next stage, as it seems to be inbunded with not only lightning, but also thunder elemental and divine energy as well.
 					
